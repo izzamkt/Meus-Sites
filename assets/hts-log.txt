@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Oct 2024 20:25:03 at https://appspyacesso.online/concluido2/index.html?numero="5586999403791 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://appspyacesso.online/concluido2/index.html?numero="5586999403791 -O1 "C:\Meus Sites\pag3-clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:25:04	Warning: 	Moved Permanently for https://appspyacesso.online/robots.txt
+20:25:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://appspyacesso.online/robots.txt and https://www.appspyacesso.online/robots.txt
+20:25:04	Warning: 	Warning moved treated for https://appspyacesso.online/robots.txt (real one is https://www.appspyacesso.online/robots.txt)
+20:25:20	Error: 	"Not Found" (404) at link https://appspyacesso.online/concluido2/assets/images/media/07.jpg (from https://appspyacesso.online/concluido2/index.html?numero=%225586999403791)
+20:25:20	Error: 	"Not Found" (404) at link https://appspyacesso.online/concluido2/fonts/materialdesignicons-webfont2f9b.eot?v=4.4.95 (from https://appspyacesso.online/concluido2/css/materialdesignicons.min.css)
+20:25:20	Error: 	"Not Found" (404) at link https://appspyacesso.online/concluido2/fonts/materialdesignicons-webfontd41d.eot? (from https://appspyacesso.online/concluido2/css/materialdesignicons.min.css)
+20:25:20	Error: 	"Not Found" (404) at link https://appspyacesso.online/concluido2/fonts/materialdesignicons-webfont2f9b.woff?v=4.4.95 (from https://appspyacesso.online/concluido2/css/materialdesignicons.min.css)
+20:25:20	Error: 	"Not Found" (404) at link https://appspyacesso.online/concluido2/fonts/materialdesignicons-webfont2f9b.ttf?v=4.4.95 (from https://appspyacesso.online/concluido2/css/materialdesignicons.min.css)
+20:25:21	Error: 	"Not Found" (404) at link https://appspyacesso.online/assets/images/bg/background.png (from https://appspyacesso.online/concluido2/css/cors.css)
+20:25:21	Error: 	"Not Found" (404) at link https://appspyacesso.online/concluido2/assets/images/bg/login-1.jpg (from https://appspyacesso.online/concluido2/css/apps.css)
+20:25:21	Error: 	"Not Found" (404) at link https://appspyacesso.online/concluido2/assets/images/bg/login-2.jpg (from https://appspyacesso.online/concluido2/css/apps.css)
+20:25:21	Error: 	"Not Found" (404) at link https://appspyacesso.online/concluido2/assets/images/bg/login-3.jpg (from https://appspyacesso.online/concluido2/css/apps.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 74 links scanned, 64 files written (2638374 bytes overall) [2196990 bytes received at 109849 bytes/sec], 584142 bytes transferred using HTTP compression in 24 files, ratio 15%, 12.3 requests per connection
+(9 errors, 3 warnings, 0 messages)
